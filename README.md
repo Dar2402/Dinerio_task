@@ -44,8 +44,8 @@ This is a minimal Employee Management System built with Django. The system consi
 
 ## Project Structure
 
-- *employee_management_system/:* The main Django project folder.
-  - *employee_management/:* The Django app for the Employee Management System.
+- *darshan_employee_management_system/:* The main Django project folder.
+  - *employee/:* The Django app for the Employee Management System.
     - *models.py:* Contains the database models for employees, departments, and salary entries.
     - *views.py:* Handles the logic for rendering views.
     - *admin.py:* Customizes the Django admin interface.
